@@ -616,6 +616,7 @@ h6 {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
+			 gap: 20px;
 }
 
 .body-createx__media {
@@ -624,7 +625,6 @@ h6 {
           flex: 0 1 60%;
   position: relative;
   padding-bottom: 38.4%;
-  min-width: 700px;
 }
 
 .body-createx__img {
